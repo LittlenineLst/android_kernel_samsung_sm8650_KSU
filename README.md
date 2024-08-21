@@ -1,5 +1,5 @@
 ```
-Plz run ./setup.sh to start compiling the kernel
+Plz run ./build.sh to start compiling the kernel
 ```
 If u have any questions plz set up a issue, Thanks~
 # How do I submit patches to Android Common Kernels
